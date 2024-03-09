@@ -12,7 +12,7 @@ const Texts = () =>{
 
 <img className="image2" src={image} alt="image1"/>
 <h4 className='quote'> There is no friend as loyal as a book.<label className="quote1">― Ernest Hemingway</label></h4>
-<span className="span1"> <a href="https://books-api-khaki.vercel.app/api/v1/books/avaliblebooks"> <Button  className="btn1"> View All Books</Button></a>
+<span className="span1"> <a href="/gebooks"> <Button  className="btn1"> View All Books</Button></a>
   </span>
  <img className="image3" src={bookimg} alt="image3"/>
     
