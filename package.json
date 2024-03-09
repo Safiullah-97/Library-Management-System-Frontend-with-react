@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://lms-backend-psi.vercel.app/api/v1/books",
+  "proxy": "https://books-api-khaki.vercel.app/api/v1/books",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
